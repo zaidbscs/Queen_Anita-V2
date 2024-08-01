@@ -1,3 +1,4 @@
+//DAVID THE gOD
 FROM quay.io/sampandey001/secktor
 
 RUN git clone https://github.com/DeeCeeXxx/Queen_Anita-V2.git /root/DeeCeeXxx
